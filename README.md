@@ -1,16 +1,31 @@
-# kicks_and_kits
+# 🏆 Kicks and Kits - E-Commerce App  
 
-A new Flutter project.
+**Kicks and Kits** is a mobile e-commerce application built with **Flutter**, designed for football fans to browse and purchase authentic football kits. The app features a modern, intuitive UI and smooth navigation for an engaging shopping experience.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
 
-A few resources to get you started if this is your first Flutter project:
+✅ **Onboarding Screens** – Swipeable multi-page introduction.  
+✅ **User Authentication** – Login, Signup, and Password Reset with validation.  
+✅ **Home Screen** – Showcases branding, hero banners, and product highlights.  
+✅ **Categories & Navigation** – Seamless bottom navigation for quick access.  
+✅ **Product Display** – Latest jerseys, best-selling kits, and limited editions.  
+✅ **Shopping Cart & Profile Management** (Coming Soon).  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack  
+
+- **Framework**: Flutter (Dart)  
+- **IDE**: VS Code  
+- **State Management**: (To be decided)  
+- **Backend**: (To be implemented)  
+
+---
+
+## 🎨 Current Progress  
+
+🔹 UI Development: **In Progress**  
+🔹 Backend Integration: **Not Started**  
+🔹 Future Features: **Order Tracking, Payment Gateway, Wishlist, etc.**  
